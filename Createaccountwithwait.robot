@@ -1,3 +1,6 @@
+robot_s6a1_sleep_speed_timeout
+
+- Please include the steps for setting Selenium speed, timeout, and adding sleep within the test flow of the above scenario
 *** Settings ***
 Library    SeleniumLibrary
 Library    String
